@@ -6,11 +6,9 @@ To work with GitHub Pages, this uses [adapter-static](https://github.com/sveltej
 
 ## Developing
 
-Once dependencies are installed with `pnpm install`, start a development server:
+If you don't have `pnpm` installed, install it with `npm install -g pnpm`.
 
-```bash
-pnpm dev
-```
+Install dependencies with `pnpm install`, and start a development server with `pnpm dev`.
 
 ## Building
 
