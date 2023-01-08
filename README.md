@@ -6,7 +6,7 @@ To work with GitHub Pages, this uses [adapter-static](https://github.com/sveltej
 
 ## Developing
 
-If you don't have `pnpm` installed, install it with `npm install -g pnpm`.
+Development requires NodeJS. If you don't have `pnpm` installed, install it with `npm install -g pnpm`.
 
 Install dependencies with `pnpm install`, and start a development server with `pnpm dev`.
 
